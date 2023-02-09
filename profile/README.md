@@ -1,6 +1,6 @@
 # warp more hardware
 
-<img src="https://avatars.githubusercontent.com/u/122211421?s=200&v=4" alt="WARP Wallbox" align="right"/>
+<img src="https://github.com/warp-more-hardware/esp32-firmware/raw/master/documentation/AC011K/img/warp-more-hardware-ac011k-logo.png" alt="WARP Wallbox" width="25%" align="right"/>
 
 This project is to port the awsome software of the [TinkerForge](https://www.tinkerforge.com/) [WARP Charger](https://www.warp-charger.com/) to other hardware.
 
